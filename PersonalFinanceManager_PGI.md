@@ -33,7 +33,7 @@ Savings Goals: Set specific savings goals (e.g., for emergencies, vacations, or 
 With SmartFinance, you have a powerful ally in your financial journey — offering you the tools, insights, and security to take full control of your money and achieve your financial goals.
 
 ## C. Project Objectives:
-To develop a SYSTEM_NAME APP that will help manage the ______ with the following features:
+To develop a SMARTFINANCE that will help manage the ______ with the following features:
 
 1. The objective of SmartFinance is to empower individuals to take full control of their personal finances by providing a user-friendly, secure, and customizable platform. 
 Our goal is to simplify financial management through real-time transaction tracking, insightful budgeting tools, and personalized goal-setting features. 
