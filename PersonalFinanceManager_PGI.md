@@ -14,7 +14,8 @@ Improving Financial Accuracy and User Experience in Finance Manager Apps and Bro
 SmartFinance – Your All-in-One Personal Finance Manager
 SmartFinance is a powerful, easy-to-use finance management app and browser-based tool designed to help individuals gain full control over their personal finances. Whether you're budgeting for daily expenses, saving for long-term goals, or managing debt, SmartFinance offers an intuitive platform that simplifies financial management and enhances your money-handling experience.
 
-**Key Features:**
+Key Features:
+
   *Automatic Transaction Tracking: Link your bank accounts, credit cards, and payment platforms to SmartFinance for real-time tracking of all your income and expenses. No need to manually input data — SmartFinance keeps everything up-to-date.
 
   *Customizable Budgeting: Create and adjust budgets tailored to your financial needs. Set limits for each spending category, track progress, and receive notifications when you're nearing or exceeding your set limits.
