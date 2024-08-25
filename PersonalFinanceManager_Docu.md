@@ -1,8 +1,9 @@
-A. Introduction
-In today’s fast-paced world, managing personal finances has become more crucial than ever. 
+# PERSONAL FINANCE MANAGER 
+## Introduction
+   In today’s fast-paced world, managing personal finances has become more crucial than ever. 
 A Personal Finance Manager (PFM) serves as an essential tool for individuals seeking to take control of their financial health. This innovative software or application helps users track their income, expenses, savings, and investments, providing a comprehensive overview of their financial situation. By offering features such as budgeting tools, expense tracking, and financial goal setting, a PFM empowers users to make informed decisions, optimize their spending habits, and plan for a secure financial future. Whether you are looking to save for a major purchase, pay off debt, or simply gain a clearer understanding of your financial landscape, a Personal Finance Manager can be your trusted companion on the journey to financial well-being.
 
-B. Project Features and Characteristics
+## Project Features and Characteristics
 BUDGETING: 
 Centralized Financial Tracking
 Income & Expenses: You may automatically track your income and expenses by entering your bank account information and credit card information into finance manager apps or internet tools. Without the need for manual updates, this real-time data tracking provides a clear perspective of your financial status.
@@ -44,17 +45,17 @@ NOTIFICATION:
 Automatic Alerts: Notifications are frequently sent by finance manager software when you're getting close to or over budget in a particular category. This enables you to monitor your spending and make necessary adjustments.
 Spending Alerts: If you’re approaching your budget limit in any category, many apps will alert you immediately upon login.
 
-C. Project Scope
+## Project Scope
 
-D. Work breakdown Structure
+## Work breakdown Structure
 
-E. Functional Requirements
+## Functional Requirements
 
         1. User Requirements
 
         2. Use case
 
-F. Database Architecture
+## Database Architecture
 
   1. Data Dictionary
   2. ERD
