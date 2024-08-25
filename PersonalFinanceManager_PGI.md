@@ -5,7 +5,7 @@
             •Chang, Noesa Mae E.
             •Coniaro, Joanna Mae M. 
             •Lagrimas, Shane Eisley
-           • Tiozon, Mary Joy
+            • Tiozon, Mary Joy
    
 
 ## A. Problem Statement:
