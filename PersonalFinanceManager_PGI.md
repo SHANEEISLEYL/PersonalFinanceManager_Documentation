@@ -1,11 +1,15 @@
 # Project General Information
-### Group Name: GROUP_PersonalFinanceManager
-### Project Title:Personal Finance Manager
+#### Group Name: GROUP_PersonalFinanceManager
+#### Project Title:Personal Finance Manager
 ####  Group Members:
    •Chang, Noesa Mae E.
+   
    •Coniaro, Joanna Mae M. 
+   
    •Lagrimas, Shane Eisley
+   
    • Tiozon, Mary Joy
+   
 
 ## A. Problem Statement:
 Improving Financial Accuracy and User Experience in Finance Manager Apps and Browsers
