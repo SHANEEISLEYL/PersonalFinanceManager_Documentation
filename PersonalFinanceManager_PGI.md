@@ -16,24 +16,25 @@ SmartFinance is a powerful, easy-to-use finance management app and browser-based
 
 Key Features:
 
-  *Automatic Transaction Tracking: Link your bank accounts, credit cards, and payment platforms to SmartFinance for real-time tracking of all your income and expenses. No need to manually input data — SmartFinance keeps everything up-to-date.
+• Automatic Transaction Tracking: Link your bank accounts, credit cards, and payment platforms to SmartFinance for real-time tracking of all your income and expenses. No need to manually input data — SmartFinance keeps everything up-to-date.
 
-  *Customizable Budgeting: Create and adjust budgets tailored to your financial needs. Set limits for each spending category, track progress, and receive notifications when you're nearing or exceeding your set limits.
-
-  *Visual Insights & Analytics: SmartFinance provides detailed spending insights with easy-to-read graphs and charts. Identify patterns in your spending behavior and adjust your habits to improve financial health.
+• Customizable Budgeting: Create and adjust budgets tailored to your financial needs. Set limits for each spending category, track progress, and receive notifications when you're nearing or exceeding your set limits.
+  
+• Visual Insights & Analytics: SmartFinance provides detailed spending insights with easy-to-read graphs and charts. Identify patterns in your spending behavior and adjust your habits to improve financial health.
 Savings Goals: Set specific savings goals (e.g., for emergencies, vacations, or big purchases) and track your progress. SmartFinance helps you visualize your goals and suggests ways to adjust spending for faster savings.
 
-  *Debt Management Tools: Track your debts and create a repayment strategy with SmartFinance's built-in tools. Whether you prefer the debt snowball or avalanche method, the app keeps you on course to pay off balances faster.
+ • Debt Management Tools: Track your debts and create a repayment strategy with SmartFinance's built-in tools. Whether you prefer the debt snowball or avalanche method, the app keeps you on course to pay off balances faster.
 
- *Custom Categories & Tags: Tailor your financial tracking by adding custom categories and tags, giving you more control over how transactions are classified to suit your unique spending habits.
+ • Custom Categories & Tags: Tailor your financial tracking by adding custom categories and tags, giving you more control over how transactions are classified to suit your unique spending habits.
 
- *Secure Data Protection: SmartFinance ensures your financial information stays private with bank-level encryption and two-factor authentication, so you can manage your money worry-free.
+ • Secure Data Protection: SmartFinance ensures your financial information stays private with bank-level encryption and two-factor authentication, so you can manage your money worry-free.
 
-  *Cross-Platform Access: Whether you’re at home on your laptop or on the go with your phone, SmartFinance is accessible through both its browser platform and mobile app, keeping your finances at your fingertips wherever you are.
+ • Cross-Platform Access: Whether you’re at home on your laptop or on the go with your phone, SmartFinance is accessible through both its browser platform and mobile app, keeping your finances at your fingertips wherever you are.
 With SmartFinance, you have a powerful ally in your financial journey — offering you the tools, insights, and security to take full control of your money and achieve your financial goals.
 
 ## C. Project Objectives:
 To develop a SYSTEM_NAME APP that will help manage the ______ with the following features:
+
 1. The objective of SmartFinance is to empower individuals to take full control of their personal finances by providing a user-friendly, secure, and customizable platform. 
 Our goal is to simplify financial management through real-time transaction tracking, insightful budgeting tools, and personalized goal-setting features. 
 By offering seamless access across devices, SmartFinance aims to make financial planning more accessible, transparent, and actionable, helping users achieve financial stability, reduce debt, and build wealth.
