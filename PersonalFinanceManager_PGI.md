@@ -2,13 +2,10 @@
 #### Group Name: GROUP_PersonalFinanceManager
 #### Project Title:Personal Finance Manager
 ####  Group Members:
-   •Chang, Noesa Mae E.
-   
-   •Coniaro, Joanna Mae M. 
-   
-   •Lagrimas, Shane Eisley
-   
-   • Tiozon, Mary Joy
+            •Chang, Noesa Mae E.
+            •Coniaro, Joanna Mae M. 
+            •Lagrimas, Shane Eisley
+           • Tiozon, Mary Joy
    
 
 ## A. Problem Statement:
