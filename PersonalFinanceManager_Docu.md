@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ad0b1e14-03b1-40c8-b5c6-031ea9f3dfe0)# PERSONAL FINANCE MANAGER 
+# PERSONAL FINANCE MANAGER 
 ## Introduction
    In today’s fast-paced world, managing personal finances has become more crucial than ever. 
 A Personal Finance Manager (PFM) serves as an essential tool for individuals seeking to take control of their financial health. This innovative software or application helps users track their income, expenses, savings, and investments, providing a comprehensive overview of their financial situation. By offering features such as budgeting tools, expense tracking, and financial goal setting, a PFM empowers users to make informed decisions, optimize their spending habits, and plan for a secure financial future. Whether you are looking to save for a major purchase, pay off debt, or simply gain a clearer understanding of your financial landscape, a Personal Finance Manager can be your trusted companion on the journey to financial well-being.
