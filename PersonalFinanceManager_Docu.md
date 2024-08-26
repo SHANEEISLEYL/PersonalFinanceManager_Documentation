@@ -1,4 +1,11 @@
 # PERSONAL FINANCE MANAGER 
+Group Name: GROUP_PersonalFinanceManager
+Project Title:Personal Finance Manager
+Group Members:
+        •Chang, Noesa Mae E.
+        •Coniaro, Joanna Mae M. 
+        •Lagrimas, Shane Eisley
+        • Tiozon, Mary Joy
 
 ## Introduction
    In today’s fast-paced world, managing personal finances has become more crucial than ever. 
