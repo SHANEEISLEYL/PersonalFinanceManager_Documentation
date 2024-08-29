@@ -127,6 +127,7 @@ Budget Overview: See how much you’ve spent in each budget category and how muc
 ## Database Architecture
 
   1. Data Dictionary
+     
       USER_TABLE
      ---------------------------------------------------------
      | FIELD NAME | DESCRIPTION | DATA TYPE | LENGTH | SAMPLE |
@@ -195,6 +196,5 @@ Budget Overview: See how much you’ve spent in each budget category and how muc
      | GeneratedDate | The date when the report was generated. | DATETIME |  | 2024-08-30 00:00:00 |
      | ReportData | Serialized data of the report content. | TEXT | 500 | report context |
      
-   
      
   3. ERD
