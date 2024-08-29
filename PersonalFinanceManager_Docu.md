@@ -175,6 +175,18 @@ Budget Overview: See how much you’ve spent in each budget category and how muc
      | CategoryType | Type of category (e.g., Income, Expense). | VARCHAR | 255  | Expense |
 
 
+     Budgets Table
+      ----------------------------------------------------------
+     | FIELD NAME | DESCRIPTION | DATA TYPE | LENGTH | SAMPLE |
+     | ---------  |  ---------- | --------- | ------ | ------ |
+     | BudgetID (Primary Key) | Unique identifier for each budget. |  VARCHAR  | 50 | Budg-0001 |
+     | UserID (Foreign Key) | Links to the Users table. | VARCHAR  | 50 | A-0001 |
+     | CategoryID (Foreign Key) | Links to the Categories table. | VARCHAR | 255 | CATEG-0001  |
+     | BudgetAmount | The allocated amount for the budget. | DECIMAL | 15,2 | 10,000.50 |
+     | StartDate | The start date for the budget period. | DATETIME |  | 2024-08-30|
+     | EndDate | The end date for the budget period. | DATETIME  |  | 2024-08-30|
+
+
      GOAL_TABLE
      ----------------------------------------------------------
      | FIELD NAME | DESCRIPTION | DATA TYPE | LENGTH | SAMPLE |
