@@ -130,7 +130,7 @@ Budget Overview: See how much you’ve spent in each budget category and how muc
       USER_TABLE
      ---------------------------------------------------------
      | FIELD NAME | DESCRIPTION | DATA TYPE | LENGTH | SAMPLE|
-     |-------------------------------------------------------
+     | ---------  |  ---------- | --------- | ------ | ------ |
      | UserID | Unique identifier for each | String  | 255 | A-0001 | 
 
 
