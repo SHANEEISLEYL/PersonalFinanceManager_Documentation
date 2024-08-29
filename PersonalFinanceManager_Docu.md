@@ -131,8 +131,11 @@ Budget Overview: See how much you’ve spent in each budget category and how muc
      ---------------------------------------------------------
      | FIELD NAME | DESCRIPTION | DATA TYPE | LENGTH | SAMPLE|
      | ---------  |  ---------- | --------- | ------ | ------ |
-     | UserID | Unique identifier for each | String  | 255 | A-0001 | 
-
+     | UserID | Unique identifier for each | VARCHAR  | 50 | A-0001 | 
+     | Username | User's chosen name for login. | VARCHAR | 225 | Admin |
+     | Password | Encrypted password for security. | VARCHAR | 255 | AD1234 |
+     | Email | User's email address. | VARCHAR | 255 | admin@gmail.com | 
+     
 
      
   3. ERD
