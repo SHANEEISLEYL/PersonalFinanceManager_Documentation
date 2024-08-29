@@ -127,5 +127,9 @@ Budget Overview: See how much you’ve spent in each budget category and how muc
 ## Database Architecture
 
   1. Data Dictionary
+      
+     ---------------------------------------------------------
+     | FIELD NAME | DESCRIPTION | DATA TYPE | LENGTH | SAMPLE|
+     --------------------------------------------------------
      
   3. ERD
