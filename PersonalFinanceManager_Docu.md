@@ -129,12 +129,49 @@ Budget Overview: See how much you’ve spent in each budget category and how muc
   1. Data Dictionary
       USER_TABLE
      ---------------------------------------------------------
-     | FIELD NAME | DESCRIPTION | DATA TYPE | LENGTH | SAMPLE|
+     | FIELD NAME | DESCRIPTION | DATA TYPE | LENGTH | SAMPLE |
      | ---------  |  ---------- | --------- | ------ | ------ |
-     | UserID | Unique identifier for each | VARCHAR  | 50 | A-0001 | 
+     | UserID | Unique identifier for each | VARCHAR  | 50 | A-0001 |  Primary Key
      | Username | User's chosen name for login. | VARCHAR | 225 | Admin |
      | Password | Encrypted password for security. | VARCHAR | 255 | AD1234 |
      | Email | User's email address. | VARCHAR | 255 | admin@gmail.com | 
+     | CreatedDate  | The date and time when the user account was created. | DATETIME |  | 2024-08-30 00:00:00 |
+     | LastLogin | The last date and time the user logged in. | DATETIME |   | 2024-08-30 00:00:00 |
+
+
+      ACCOUNT_TABLE
+      ---------------------------------------------------------
+     | FIELD NAME | DESCRIPTION | DATA TYPE | LENGTH | SAMPLE |
+     | ---------  |  ---------- | --------- | ------ | ------ |
+     | AccountID | Unique identifier for each account. | VARCHAR  | 50 | A-0002 | Primary Key
+     | UserID | Links to the Users table. | VAECHAR | 255 | A-0001  | Foreign Key 
+     | AccountName | Name of the financial account (e.g., Savings, Checking). | VARCHAR | 255 | John |
+     | Balance |  Current balance of the account. | DECIMAL | 15,2 | 10,000.50 |
+     | Currency | Currency code (e.g., USD, EUR). | VARCHAR | 3 | PH |
+     | CreatedDate | The date when the account was added. | DATETIME |  | 2024-08-30 00:00:00 |
+
+
+     TRANSACTIONS_TABLE
+       ---------------------------------------------------------
+     | FIELD NAME | DESCRIPTION | DATA TYPE | LENGTH | SAMPLE |
+     | ---------  |  ---------- | --------- | ------ | ------ |
+     | TransactionID |  Unique identifier for each transaction. |   VARCHAR  | 50 | TRAN-0001 | Primary Key
+     | AccountID | Links to the Accounts table. | VARCHAR  | 50 | A-0002 | Foreign Key
+     | TransactionDate | The date and time when the transaction occurred. | DATETIME |  | 2024-08-30 00:00:00 |
+     | Amount | The amount of money involved in the transaction. | DECIMAL | 15,2 | 10,000.50 |
+     | TransactionType | Type of transaction (e.g., Debit, Credit). | VARCHAR | 10  | Debit |
+     | CategoryID | Links to the Categories table. | VAECHAR | 255 | CATEG-0001  | Foreign Key
+     | Description | Details or notes about the transaction. | VAECHAR | 255 | Bills |
+
+
+     CATEGORIES_TABLE
+        ---------------------------------------------------------
+     | FIELD NAME | DESCRIPTION | DATA TYPE | LENGTH | SAMPLE |
+     | ---------  |  ---------- | --------- | ------ | ------ |
+     
+
+
+     
      
 
      
