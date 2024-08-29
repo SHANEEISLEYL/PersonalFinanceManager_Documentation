@@ -81,4 +81,5 @@ Budget Overview: See how much you’ve spent in each budget category and how muc
 ## Database Architecture
 
   1. Data Dictionary
-  2. ERD
+     
+  3. ERD
