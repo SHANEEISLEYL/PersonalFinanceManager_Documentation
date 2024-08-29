@@ -175,7 +175,7 @@ Budget Overview: See how much you’ve spent in each budget category and how muc
      | CategoryType | Type of category (e.g., Income, Expense). | VARCHAR | 255  | Expense |
 
 
-     Budgets Table
+     BUDGETS_TABLE 
       ----------------------------------------------------------
      | FIELD NAME | DESCRIPTION | DATA TYPE | LENGTH | SAMPLE |
      | ---------  |  ---------- | --------- | ------ | ------ |
@@ -208,5 +208,8 @@ Budget Overview: See how much you’ve spent in each budget category and how muc
      | GeneratedDate | The date when the report was generated. | DATETIME |  | 2024-08-30 00:00:00 |
      | ReportData | Serialized data of the report content. | TEXT | 500 | report context |
      
-     
+   
   3. ERD
+     ![image](https://github.com/user-attachments/assets/a380d30d-f2f1-4c9c-a27a-c73f44416449)
+
+     
