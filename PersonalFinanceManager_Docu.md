@@ -69,12 +69,58 @@ Budget Overview: See how much you’ve spent in each budget category and how muc
 • Spending Alerts: If you’re approaching your budget limit in any category, many apps will alert you immediately upon login.
 
 ## Project Scope
+-User friendly:
+-Enable users to track their budget and expenses: they can easily track their inserted amount of money inside their account real-time
+-Offers budget tips for the users: the system will pop up some offers to the users while exploring the site
+-Ensure data security and privacy: QR codes are implemented for more secured account
 
 ## Work breakdown Structure
 
+### Level 1: Project Scope
+•Personal Finance Manager
+
+### Level 2: Major Deliverables
+•User Interface
+•Backend System
+•Data Management
+•Testing and Quality Assurance
+•Deployment and Maintenance
+
+### Level 3: Detailed Tasks
+
+## User Interface
+•Design user interface (UI) mockups
+•Develop UI components
+•Implement user interactions and navigation
+•Create responsive design for mobile and desktop
+
+## Backend System
+•Design database schema
+•Develop backend logic and APIs
+•Integrate with payment gateways (if applicable)
+
+## Data Management 
+•Data validation and cleansing
+•Data storage and retrieval
+•Data backup and recovery
+•Data analytics and reporting
+
+## Testing and Quality Assurance
+•Unit Testing
+•Integration Testing
+•System Testing
+•User acceptance testing (UAT)
+•Quality assurance processes
+
+## Deployment and Maintenance 
+•Deployment planning
+•System development
+•Post-deployment support
+•Ongoing maintenance and updates
+
 ## Functional Requirements
 
-        1. User Requirements
+        1. User Requirements 
 
         2. Use case
 
