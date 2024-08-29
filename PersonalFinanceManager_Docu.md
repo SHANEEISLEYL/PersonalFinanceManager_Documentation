@@ -25,7 +25,7 @@ A Personal Finance Manager (PFM) serves as an essential tool for individuals see
 • Categories: With the help of these tools, you can precisely track where your money is going by categorizing your transactions (such as food, rent, and entertainment). If necessary, you can usually establish your own unique categories in apps.
 Setting a Budget
 
-• Budget Creation: Each category can have a budget that you determine depending on your income and financial objectives. The app promotes better money management by assisting you in setting reasonable spending caps in several areas.
+• Budget Creation: Each category can have a budget that you determine depending on your income and financial objectives. The app promotes better money management by assisting you in setting reasonable sp ending caps in several areas.
 
 #### Visual Insights:
 • Graphs & Charts: These apps usually give you a visual depiction of your spending habits, such as charts that plot your expenditure over time in different categories. This facilitates the identification of patterns, such as excessive spending on entertainment or eating out.
@@ -152,27 +152,49 @@ Budget Overview: See how much you’ve spent in each budget category and how muc
 
 
      TRANSACTIONS_TABLE
-       ---------------------------------------------------------
+     ----------------------------------------------------------
      | FIELD NAME | DESCRIPTION | DATA TYPE | LENGTH | SAMPLE |
      | ---------  |  ---------- | --------- | ------ | ------ |
-     | TransactionID (Primary Key)|  Unique identifier for each transaction. |   VARCHAR  | 50 | TRAN-0001 | 
+     | TransactionID (Primary Key)|  Unique identifier for each transaction. | VARCHAR  | 50 | TRAN-0001 | 
      | AccountID (Foreign Key) | Links to the Accounts table. | VARCHAR  | 50 | A-0002 |
      | TransactionDate | The date and time when the transaction occurred. | DATETIME |  | 2024-08-30 00:00:00 |
      | Amount | The amount of money involved in the transaction. | DECIMAL | 15,2 | 10,000.50 |
      | TransactionType | Type of transaction (e.g., Debit, Credit). | VARCHAR | 10  | Debit |
-     | CategoryID (Foreign Key)| Links to the Categories table. | VAECHAR | 255 | CATEG-0001  | 
-     | Description | Details or notes about the transaction. | VAECHAR | 255 | Bills |
+     | CategoryID (Foreign Key)| Links to the Categories table. | VARCHAR | 255 | CATEG-0001  | 
+     | Description | Details or notes about the transaction. | VAECHAR | 255 | Balance |
 
 
      CATEGORIES_TABLE
-        ---------------------------------------------------------
+     ----------------------------------------------------------
      | FIELD NAME | DESCRIPTION | DATA TYPE | LENGTH | SAMPLE |
      | ---------  |  ---------- | --------- | ------ | ------ |
-     
+     | CategoryID (Primary Key) |  Unique identifier for each category. | VARCHAR | 255 | CATEG-0001  |
+     | UserID (Foreign Key)| Links to the Users table. | VARCHAR  | 50 | A-0001 |
+     | CategoryName | Name of the category (e.g., Groceries, Utilities). | VARCHAR | 255  | Groceries |
+     | CategoryType | Type of category (e.g., Income, Expense). | VARCHAR | 255  | Expense |
 
 
-     
-     
+     GOAL_TABLE
+     ----------------------------------------------------------
+     | FIELD NAME | DESCRIPTION | DATA TYPE | LENGTH | SAMPLE |
+     | ---------  |  ---------- | --------- | ------ | ------ |
+     | GoalID (Primary Key) | Unique identifier for each goal. | VARCHAR  | 50 | GOAL-0001 |
+     | UserID (Foreign Key)| Links to the Users table. | VARCHAR  | 50 | A-0001 |
+     | TargetAmount | The total amount aimed for the goal. | DECIMAL | 15,2 | 10,000.50 |
+     | CurrentAmount | The amount already saved or invested towards the goal. | DECIMAL | 15,2 | 10,000.50 |
+     | TargetDate | The date by which the goal should be achieved. |  DECIMAL | 15,2 | 10,000.50 |
 
+     
+     REPORTS_TABLE
+     ----------------------------------------------------------
+     | FIELD NAME | DESCRIPTION | DATA TYPE | LENGTH | SAMPLE |
+     | ---------  |  ---------- | --------- | ------ | ------ |
+     | ReportID (Primary Key) | Unique identifier for each report. | VARCHAR  | 50 | RE-0001 |
+     | UserID (Foreign Key)| Links to the Users table. | VARCHAR  | 50 | A-0001 |
+     | ReportType | Type of report (e.g., Monthly, Annual). | VARCHAR  | 255 | Monthly |
+     | GeneratedDate | The date when the report was generated. | DATETIME |  | 2024-08-30 00:00:00 |
+     | ReportData | Serialized data of the report content. | TEXT | 500 | report context |
+     
+   
      
   3. ERD
