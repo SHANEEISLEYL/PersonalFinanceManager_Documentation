@@ -123,7 +123,11 @@ Budget Overview: See how much you’ve spent in each budget category and how muc
         1. User Requirements (what the users wants to be featured in the system)
         -more secured account
         -no limitation of inputting amount of money in the system
-        -can track their transaction histories more detailed and concise
+        -expense tracker
+        -dashboard
+        -income management and personal goals
+        -user support
+        -data managements
    
 
         2. Use case
