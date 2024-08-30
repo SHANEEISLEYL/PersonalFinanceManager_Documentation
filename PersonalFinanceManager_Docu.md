@@ -120,7 +120,11 @@ Budget Overview: See how much you’ve spent in each budget category and how muc
 
 ## Functional Requirements
 
-        1. User Requirements 
+        1. User Requirements (what the users wants to be featured in the system)
+        -more secured account
+        -no limitation of inputting amount of money in the system
+        -can track their transaction histories more detailed and concise
+   
 
         2. Use case
 
