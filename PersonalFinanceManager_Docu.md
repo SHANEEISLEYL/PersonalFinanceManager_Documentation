@@ -131,6 +131,8 @@ Budget Overview: See how much you’ve spent in each budget category and how muc
    
 
         2. Use case
+        ![image](https://github.com/user-attachments/assets/9d9bd000-e19c-495b-b68d-14a7c1d7d8da)
+
 
 ## Database Architecture
 
@@ -219,7 +221,6 @@ Budget Overview: See how much you’ve spent in each budget category and how muc
    
   3. ERD
      ![image](https://github.com/user-attachments/assets/a380d30d-f2f1-4c9c-a27a-c73f44416449)
-3. USE CASE DIAGRAM FOR PERSONAL FINANCE MANAGER
-4. ![image](https://github.com/user-attachments/assets/8ff69a8a-27a8-4d21-90d5-6514c219a9fc)
+
 
      
