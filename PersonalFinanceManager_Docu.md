@@ -131,7 +131,9 @@ Budget Overview: See how much you’ve spent in each budget category and how muc
    
 
         2. Use case
-        ![image](https://github.com/user-attachments/assets/9d9bd000-e19c-495b-b68d-14a7c1d7d8da)
+
+        ![image](https://github.com/user-attachments/assets/e8d26b28-0da1-4fa1-95a0-68d3f05de9fc)
+
 
 
 ## Database Architecture
