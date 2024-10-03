@@ -1,5 +1,5 @@
 # PERSONAL FINANCE MANAGER 
-Group Name: GROUP_PersonalFinanceManager
+Group Name: PersonalFinanceManager
 
 Project Title: Personal Finance Manager
 
